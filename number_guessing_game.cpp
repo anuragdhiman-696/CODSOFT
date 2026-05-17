@@ -30,10 +30,10 @@ int main() {
             attempts++;
 
             if(userGuess > randomNumber) {
-                cout << "It's Higher";
+                cout << "Lower than this";
             }
             else if(userGuess < randomNumber) {
-                cout << "It's Lower";
+                cout << "Higher than this";
             }
             else {
                 cout << "\nCorrect!";
