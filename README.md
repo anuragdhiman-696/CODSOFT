@@ -6,6 +6,7 @@ This repository contains the projects completed during my C++ Programming Intern
 1. Simple Calculator
 2. Number Guessing Game
 3. Tic Tac Toe Game
+4. To Do List
 
 ## Technologies Used
 - C++
