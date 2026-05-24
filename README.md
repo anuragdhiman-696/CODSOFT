@@ -1,13 +1,17 @@
-# CODSOFT C++ Internship Projects
+# To-Do List Manager
 
-This repository contains the projects completed during my C++ Programming Internship at CodSoft.
+A simple console-based To-Do List Manager made using C++.
 
-## Projects
-1. Simple Calculator
-2. Number Guessing Game
-3. Tic Tac Toe Game
-4. To Do List
+## Features
+- Add tasks
+- View tasks
+- Delete tasks
+- Menu-driven program
 
 ## Technologies Used
 - C++
-- GitHub
+- STL Vector
+
+## How To Run
+1. Compile the code
+2. Run the executable file
